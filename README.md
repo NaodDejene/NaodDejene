@@ -6,7 +6,7 @@
   - [osTicket: Prerequisites and Installation](https://github.com/joshmadakorcc/osticket-prereqs)
   - [osTicket: Post-Installation Configuration](https://github.com/joshmadakorcc/post-install-config)
 - <b> VPN Usage and Setup(proton)</b>
-  - [VPN: Usage and setup ](https://github.com/joshmadakorcc/post-install-config)
+  - [VPN: Usage and setup ](https://github.com/joshmadakorcc/Vpn-Usage-Setup)
   - 
 <h2>🤳Connect with me:</h2>
 
