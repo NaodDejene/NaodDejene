@@ -7,13 +7,13 @@
   - [osTicket: Post-Installation Configuration](https://github.com/NaodDejene/post-install-config)
 - <b> VPN Usage and Setup(proton)</b>
   - [VPN: Usage and setup ](https://github.com/NaodDejene/Vpn-Usage-Setup)
-  - 
+    
 <h2>🤳Connect with me:</h2>
 
 [<img align="left" alt="Josh | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Josh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Josh | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-[twitter]: https://twitter.com/Josh
-[instagram]: https://www.instagram.com/Josh
-[linkedin]: https://linkedin.com/in/Josh
+[twitter]: https://twitter.com/
+[instagram]: https://www.instagram.com/
+[linkedin]: https://linkedin.com/in/NaodDejene
